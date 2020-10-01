@@ -22,14 +22,14 @@ struct GreetingEntryView: View {
                 Text(Date(), style: .time)
                 Spacer()
             }
-            .padding(20)
+            .padding(18)
             
             VStack {
                 Spacer()
                 Text(greeting())
             }
             .fixedSize(horizontal: false, vertical: true)
-            .padding(20)
+            .padding(18)
             
         }
         .font(.headline)
