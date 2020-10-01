@@ -16,7 +16,7 @@ The objective of this tutorial is to understand the workflow of a static configu
 
 In this widget, we will show the current time with the device name and greeting based on the current time.
 
-# System supported families:
+# System Supported Families
 
 - systemSmall 
 - systemMedium
