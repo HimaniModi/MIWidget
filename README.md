@@ -28,3 +28,6 @@ In this widget, we will show the current time with the device name and greeting 
 # Documentation 
  
 Official - https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/widgets
+
+# LICENSE!
+MIWidget is <a href="/Mindinventory/MIOTPVerification/blob/master/LICENSE">MIT-licensed</a>.
