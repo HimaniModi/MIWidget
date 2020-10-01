@@ -6,7 +6,8 @@ Widget's main purpose is to display a small amount of timely, personally relevan
 
 # Minimum Requirements
 
-macOS Catalina 10.15.5 or later, Xcode 12 or later
+- macOS Catalina 10.15.5 or later
+- Xcode 12 or later
 
 # Our Goal
 
