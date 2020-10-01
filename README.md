@@ -12,11 +12,17 @@ macOS Catalina 10.15.5 or later, Xcode 12 or later
 
 The objective of this tutorial is to understand the workflow of a static configuration widget extension and how to show data with three supported families.
 
-<img src="/Screenshot 2020-09-30 at 7.05.28 PM.png">
-
 # Description 
 
-In this widget, we will show the current time with the device name and greeting based on the current time. 
+In this widget, we will show the current time with the device name and greeting based on the current time.
+
+# System supported families:
+
+- systemSmall 
+- systemMedium
+- systemLarge
+
+<img src="/Screenshot 2020-09-30 at 7.05.28 PM.png">
 
 # Documentation 
 
