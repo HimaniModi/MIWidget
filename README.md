@@ -2,7 +2,7 @@
 
 Widget's main purpose is to display a small amount of timely, personally relevant information that people can view without opening your app. With iOS 14, Apple is replacing the old widgets with all new ones that are more dynamic, can pull in more information. You can create widgets in small, medium, or large sizes and can put widgets anywhere on a home screen.
 
-<img src="/Screenshot 2020-09-30 at 6.50.44 PM.png">
+<img src="/Images/Screenshot 1.png">
 
 # Minimum Requirements
 
@@ -23,7 +23,7 @@ In this widget, we will show the current time with the device name and greeting 
 - systemMedium
 - systemLarge
 
-<img src="/Screenshot 2020-09-30 at 7.05.28 PM.png">
+<img src="/Images/Screenshot 2.png">
 
 # Documentation 
  
