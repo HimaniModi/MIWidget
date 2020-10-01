@@ -26,5 +26,5 @@ In this widget, we will show the current time with the device name and greeting 
 <img src="/Screenshot 2020-09-30 at 7.05.28 PM.png">
 
 # Documentation 
-
-Widget Extension - https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/widgets
+ 
+Official - https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/widgets
