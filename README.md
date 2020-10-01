@@ -2,7 +2,7 @@
 
 Widget's main purpose is to display a small amount of timely, personally relevant information that people can view without opening your app. With iOS 14, Apple is replacing the old widgets with all new ones that are more dynamic, can pull in more information. You can create widgets in small, medium, or large sizes and can put widgets anywhere on a home screen.
 
-<img src="/Screenshot 2020-09-30 at 6.50.44 PM.png">
+<img src="/Screenshot 2020-09-30 at 6.50.44 PM.png" style="vertical-align:middle">
 
 # Minimum Requirements
 
